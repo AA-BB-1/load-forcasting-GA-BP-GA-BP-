@@ -2,4 +2,5 @@ main.m: Runs the prediction model for the BP neural network improved by a Geneti
 BPgongju.m: Runs the standard BP neural network model. (For a version with a reduced sample set, see BP.m).
 GA.m: Runs the Genetic Algorithm (GA) prediction model.
 Other files: These are the supporting functions for the GA-improved BP neural network prediction model.
-经济模型：a simple sample for testing
+经济模型：A simple sample for testing
+数据集.xlsx: A dataset sample
